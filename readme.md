@@ -1,4 +1,4 @@
-# HOW TO HOST ULTROID USERBOT ON GITHUB WORKFLOWS BY NEW-DEV3, TeLe Tips
+# HOW TO HOST ULTROID USERBOT ON GITHUB WORKFLOWS BY NEW-DEV3,TELE TIPS
 
 Clone this repository. Watch the full tutorial of TeLe TiPs - Telegram on YouTube
 
